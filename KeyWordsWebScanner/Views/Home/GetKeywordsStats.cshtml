@@ -1,0 +1,15 @@
+﻿@model KeyWordsWebScanner.Models.KeywordsStatsViewModel
+@{
+    ViewBag.Title = "GetKeywordsStats";
+}
+
+<h2>GetKeywordsStats</h2>
+
+<table>
+    <tr><td>Słowo kluczowe</td><td>Ilość wystąpień</td></tr>
+    @foreach (var keyword in Model.KeyWordsList)
+    {
+        
+        <tr><td>@keyword.KeyWord</td><td>@keyword.KeyWordCount</td></tr>
+    }
+</table>

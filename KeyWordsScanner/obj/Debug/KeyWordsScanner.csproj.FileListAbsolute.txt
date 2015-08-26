@@ -1,0 +1,12 @@
+C:\Git\KeyWordsScanner\KeyWordsScanner\bin\Debug\KeyWordsScanner.exe.config
+C:\Git\KeyWordsScanner\KeyWordsScanner\obj\Debug\KeyWordsScanner.csprojResolveAssemblyReference.cache
+C:\Git\KeyWordsScanner\KeyWordsScanner\obj\Debug\KeyWordsScanner.Form1.resources
+C:\Git\KeyWordsScanner\KeyWordsScanner\obj\Debug\KeyWordsScanner.Properties.Resources.resources
+C:\Git\KeyWordsScanner\KeyWordsScanner\obj\Debug\KeyWordsScanner.csproj.GenerateResource.Cache
+C:\Git\KeyWordsScanner\KeyWordsScanner\bin\Debug\KeyWordsScanner.exe
+C:\Git\KeyWordsScanner\KeyWordsScanner\bin\Debug\KeyWordsScanner.pdb
+C:\Git\KeyWordsScanner\KeyWordsScanner\obj\Debug\KeyWordsScanner.exe
+C:\Git\KeyWordsScanner\KeyWordsScanner\obj\Debug\KeyWordsScanner.pdb
+C:\Git\KeyWordsScanner\KeyWordsScanner\bin\Debug\HtmlAgilityPack.dll
+C:\Git\KeyWordsScanner\KeyWordsScanner\bin\Debug\HtmlAgilityPack.pdb
+C:\Git\KeyWordsScanner\KeyWordsScanner\bin\Debug\HtmlAgilityPack.xml

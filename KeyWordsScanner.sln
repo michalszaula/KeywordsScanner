@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyWordsScanner", "KeyWordsScanner\KeyWordsScanner.csproj", "{48F98823-E142-4AFD-9A23-818250CB3B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyWordsWebScanner", "KeyWordsWebScanner\KeyWordsWebScanner.csproj", "{A7B94C49-B6BD-4FE6-9054-0C0486CEAB98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F98823-E142-4AFD-9A23-818250CB3B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F98823-E142-4AFD-9A23-818250CB3B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F98823-E142-4AFD-9A23-818250CB3B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F98823-E142-4AFD-9A23-818250CB3B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B94C49-B6BD-4FE6-9054-0C0486CEAB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B94C49-B6BD-4FE6-9054-0C0486CEAB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B94C49-B6BD-4FE6-9054-0C0486CEAB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B94C49-B6BD-4FE6-9054-0C0486CEAB98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

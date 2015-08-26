@@ -1,0 +1,20 @@
+﻿@model KeyWordsWebScanner.Models.HomeModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Home Index</h2>
+
+<style>
+    #url-textbox {
+        width:300px;
+    }
+
+
+</style>
+<p>@Html.Raw(Model.UrlInfo)</p>
+@using (Html.BeginForm("GetKeywordsStats", "Home", FormMethod.Post))
+{
+    @Html.TextBoxFor(m=>m.RequestedUrl, new { @id = "url-textbox" })
+    <input type="submit" value="Submit"/>
+}
